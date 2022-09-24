@@ -1,3 +1,4 @@
 Kim Resolusi
-- Pelatihan CPP sekali seminggu
+- Pelatihan coding sekali seminggu
 - buat program apk
+- belajar desain website dengan UiUx
